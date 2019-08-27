@@ -1,0 +1,2 @@
+model_checkpoint_path: "CRIN_good"
+all_model_checkpoint_paths: "CRIN_good"

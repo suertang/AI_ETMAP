@@ -1,0 +1,2 @@
+model_checkpoint_path: "testsaver.cpkt"
+all_model_checkpoint_paths: "testsaver.cpkt"
